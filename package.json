@@ -1,0 +1,19 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "practice javascript",
+  "main": "Hello World.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lDomani/App-Academy-JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lDomani/App-Academy-JavaScript/issues"
+  },
+  "homepage": "https://github.com/lDomani/App-Academy-JavaScript#readme"
+}
